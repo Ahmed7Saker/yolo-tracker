@@ -9,5 +9,7 @@ Generate and display heatmaps representing the movement patterns of selected pla
 Control video playback, pause, and resume through an interactive interface.
 This tool is designed for sports analysts, coaches, and enthusiasts who want to analyze player positions and movements efficiently.
 
-![Alt text](image_url)
+
+
+
 
